@@ -1,4 +1,9 @@
-# LinearAlgebraGraphicsDemonstration
+# Linear Algebra Graphics Demonstration
+
+## What is it?
+It's a tool that allows one to play around with transform matrices commonly used in 3D graphics! 
+Add your own translations, rotations, scales, and more onto a transform stack, which ultimately results
+in the output to the screen! Gain an intuitive understanding of the way transforms work.
 
 ## Installation
 * Install Visual Studio 2017
