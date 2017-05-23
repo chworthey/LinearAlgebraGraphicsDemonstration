@@ -6,7 +6,6 @@ using ExpressionParserEngine;
 
 namespace LinearAlgebraGraphicsDemonstration
 {
-#if WINDOWS || XBOX
     static class Program
     {
         static Demonstration demonstration;
@@ -198,6 +197,5 @@ namespace LinearAlgebraGraphicsDemonstration
             } while (true);
         }
     }
-#endif
 }
 

@@ -35,7 +35,7 @@ namespace LinearAlgebraGraphicsDemonstration
         {
             graphics = new GraphicsDeviceManager(this);
 
-            Content.RootDirectory = "Content";
+            Content.RootDirectory = "./Content/bin/Windows";
 
             graphics.PreferredBackBufferWidth = 1366;
             graphics.PreferredBackBufferHeight = 768;
